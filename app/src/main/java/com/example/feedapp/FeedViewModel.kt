@@ -14,7 +14,7 @@ import kotlinx.coroutines.launch
 
 
 @SuppressLint("NewApi")
-class FeedViewModel(private val mainActivityNavigator: MainActivityNavigator) : ViewModel() {
+class FeedViewModel : ViewModel() {
 
     private var feedList: MutableLiveData<List<ProductModel>> = MutableLiveData()
     private var filtersData: MutableLiveData<List<FilterModel>> = MutableLiveData()
@@ -125,11 +125,6 @@ class FeedViewModel(private val mainActivityNavigator: MainActivityNavigator) : 
 
     private fun updateFeedList() {
         feedList.postValue(feedRepository.getLatestFeedData())
-    }
-
-    fun sharePost(data: ProductModel?) {
-        mainActivityNavigator.sharePost(data)
-
     }
 
 }

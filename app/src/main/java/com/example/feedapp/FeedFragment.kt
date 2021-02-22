@@ -25,7 +25,7 @@ class FeedFragment : BaseFragment() {
     lateinit var binding: FeedFragmentBinding
 
     private val feedViewListener by lazy {
-        FeedViewListener(feedViewModel)
+        FeedViewListener(feedViewModel, mainActivityNavigator)
     }
     private val mainActivityNavigator by lazy {
         MainActivityNavigator(activity as BaseActivity)
@@ -56,13 +56,7 @@ class FeedFragment : BaseFragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
-        feedViewModel = ViewModelProviders.of(
-            this,
-            FeedViewModelFactory(mainActivityNavigator = mainActivityNavigator)
-        ).get(FeedViewModel::class.java)
-
-
+        feedViewModel = ViewModelProviders.of(this).get(FeedViewModel::class.java)
         setUpViews()
     }
 
