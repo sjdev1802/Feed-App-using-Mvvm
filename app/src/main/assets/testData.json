@@ -1,0 +1,336 @@
+{
+  "data": {
+    "feedData": {
+      "contentList": [
+        {
+          "productId": "1",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "1",
+            "2",
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Raj Vattikuti, Founder & CEO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Altimetrik",
+          "description": "Altimetrik is a digital technology services organization that catalyzes technology transformation through the innovation and creation of digital products",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/ybi6yUntitled-36.jpg"
+        },
+        {
+          "productId": "2",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "1",
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "2",
+            "name": "Atul Arya, Arjun Rajan and Kiran Ramesh, CEO & Founder, COO & Founder and Chief Customer Officer",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Blackstraw",
+          "description": "Provides an end-to-end artificial intelligence platform to seamlessly train and build vision and document-based AI solutions",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/vq0qpUntitled-38.jpg"
+        },
+        {
+          "productId": "3",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "2",
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "3",
+            "name": "Shireen Vali, Co-founder & CSO and Taher Abbasi, Co-founder & COO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Cellworks",
+          "description": "Aids physicians in choosing ideal treatments for their patients, and\r\naids biopharma in shrinking drug development timelines",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/a0zhp222tryrt.gif"
+        },
+        {
+          "productId": "4",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "4",
+            "name": "Raj Raghavan, Founder",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Credio, Inc",
+          "description": "Provides consultancy services to clients by implementing cybersecurity, payments and data protection technologies",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/9dvgy140.jpg"
+        },
+        {
+          "productId": "5",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "1",
+            "4",
+            "5"
+          ],
+          "founderProfile": {
+            "userId": "5",
+            "name": "Jignesh Patel, CEO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "DataChat",
+          "description": "DataChat helps you understand data your business collects",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/1wat5222ferqw.gif"
+        },
+        {
+          "productId": "6",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "4",
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "6",
+            "name": "Vishal Bhatia, CEO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Dedicated Developers",
+          "description": "Leading development company, globally trusted for its skillful, innovative and leading technology development services",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/jg8k7dedilogo.jpg"
+        },
+        {
+          "productId": "7",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Satyajit Bandyopadhyay, CEO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Edkal Technologies",
+          "description": "Delivers digital engineering and automation solutions and end-to-end custom software solutions leveraging its expertise in platform development on mix of on-premises, privateand public cloud services",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/vuj142.jpg"
+        },
+        {
+          "productId": "8",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "1"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Sunder Pillai, COO and Umesh Ghai, Founder & President",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Enterprise Solutions",
+          "description": "Enterprise Solutions is a certified minority business enterprise offering implementation services for VMS, MSP, ERP, cloud, analytics, and digital transformation",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/xsy99Untitled-47.jpg"
+        },
+        {
+          "productId": "9",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "2",
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Pradeep Kalmat, Founder & CEO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "ESimplify",
+          "description": "Offers an analytical solution that helps healthcare providers, medical billing companies, Revenue Cycle Management consultants and Health care vendors to streamline their business processes and grow organically",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/omenz222jyjt.gif"
+        },
+        {
+          "productId": "10",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "5",
+            "2",
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Prasad Kothapalli, Co-Founder and Steve Y. Chung, MD, CEO & Co-founder",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Healthereum",
+          "description": "An Ethereum blockchain based company created to address pivotal inefficiencies and generate a structured ecosystem in healthcare",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/sc8bt143.jpg"
+        },
+        {
+          "productId": "11",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "4",
+            "2",
+            "3"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Shyam Kumar, CEO & Founder",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "I&i Software",
+          "description": "Provider of a solution to build and envisage Data as a Strategic Business Asset through Data Governance and provides comprehensive Project Management solutions to manage Community Development Block Grant - Disaster Recovery (CDBG-DR) programs",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/j6f1222uht.gif"
+        },
+        {
+          "productId": "12",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "4",
+            "5"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Rajiv Dewan, Managing Partner",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Indigo Arc",
+          "description": "Consulting and software development firm providing IT Infrastructure\r\nServices specializing in aviation system, airport automation, and\r\nhealthcare IT domains",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/iibrq65.jpg"
+        },
+        {
+          "productId": "13",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "4"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Deepak Nijhawan, President",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Infocon Systems",
+          "description": "Provides an EDI solution that works with any trading partner, any integration, and any industry",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/offseUntitled-43.jpg"
+        },
+        {
+          "productId": "14",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "5"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Sanjeev Kuwadekar, CEO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Infogen Labs",
+          "description": "Helps companies to rapidly scale during the development of digital products",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/yrjws148.jpg"
+        },
+        {
+          "productId": "15",
+          "upvoteInfo": {
+            "upvotedByUser": "false",
+            "upvoteCount": "0"
+          },
+          "productType": [
+            "4"
+          ],
+          "founderProfile": {
+            "userId": "1",
+            "name": "Dirgesh Patel , CEO",
+            "imageUrl": "",
+            "about": ""
+          },
+          "companyName": "Infolob",
+          "description": "Infolob is a leading technology consulting organization that caters to companies looking for specialists who can help with their digital transformation agenda",
+          "imageUrl": "https://www.siliconindia.com/magazine/beta/uploaded_images/company_logos/rw5rgUntitled-34.jpg"
+        }
+      ],
+      "next": "some url"
+    },
+    "filtersData": {
+      "contentList": [
+        {
+          "name": "Trending",
+          "id": "1",
+          "selected": "false"
+        },
+        {
+          "name": "Machine Learning",
+          "id": "2",
+          "selected": "false"
+        },
+        {
+          "name": "Ed Tech",
+          "id": "3",
+          "selected": "false"
+        },
+        {
+          "name": "Medical Technology",
+          "id": "4",
+          "selected": "false"
+        },
+        {
+          "name": "My Bookmarks",
+          "id": "5",
+          "selected": "false"
+        }
+      ]
+    }
+  }
+}
